@@ -1,0 +1,8 @@
+table, th, td {
+    border: 1px solid black;
+  }
+  table{
+    width: 90%;
+    max-width: 400px;
+    margin: auto;
+  }
